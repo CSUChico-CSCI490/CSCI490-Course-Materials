@@ -1,5 +1,6 @@
 The course catalogue describes this course as follows:
 
-Prerequisites: Grade of C- or better in CSCI 311. 
-Operating system fundamentals, including history, process and thread management, concurrency with semaphores and monitors, deadlocks, storage management, file systems, I/O, and distributed systems. 
-3 hours discussion, 2 hours activity.
+Prerequisite: CSCI 311 with a grade of C or higher, Senior standing.
+This capstone course provides a culminating activity in computer science. Students will work independently to specify, design, develop, test, and document a complete software application under faculty supervision. Students present status reports at weekly meetings, and present their finished project at the end of the semester. 
+
+9 hours supervision.

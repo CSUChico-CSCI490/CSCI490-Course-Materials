@@ -1,4 +1,4 @@
-# CSCI340 Syllabus
+# CSCI490 Syllabus
 
 ## Instructor
 
@@ -6,111 +6,64 @@ Bryan Dixon
 
 ## Prerequisite
 
-Grade of C or better in CSCI 311 and CSCI221. (or approved equivalent, check with your advisor)
+CSCI 311 with a grade of C or higher, Senior standing.
 
 Students who take this class without completing the prerequisite class will be given a failing grade.
 
-
-## Course Accounts
-
-In addition to an CSU Chico Lab account, you need an account in the CSCI assignment turn-in system.
-
-Go to [https://turnin.ecst.csuchico.edu](https://turnin.ecst.csuchico.edu "Tyson's Turnin System") and create a new account.
-
-Once you create an account, log on and enroll in CSCI 340, make sure you enroll in the correct section.
-
-**I WILL DROP YOU FROM THE CLASS IF YOU DO NOT CREATE THIS ACCOUNT**
-
-You will use this system to turn in your programming and lab assignments.
-
 ## Textbook
 
-We will be making use of a free, yes **free**, operating textbook that I feel offers a more technical and up to date presentation of the OS topics. This is a change from the previous semesters. I've linked the recommended chapters for the weekly readings on the [readings page](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Readings.md "CSCI340 Readings"), but for reference here is the book details:
-
-**Operating Systems: Three Easy Pieces**
-Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
-Arpaci-Dusseau Books
-March, 2015 (Version 0.90)
-
-
-This textbook also offers simulators for a number of the topics with homework assignments at the end of many of the chapters that will be helpful to conceptualize some of the difficult topics for this course. I've selected some of the key ones I would recommend as well as timing and included these on the [labs](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Labs.md "Labs") page.
-
-In addition to this free textbook, you may also benefit renting the following book from Amazon for the semester to help with the [second assignment](https://github.com/CSUChico-CSCI340/CSCI340-Shell-Assignment "Shell Assignment") for the course. Chapter 8 of the book is where the following assignment is adapted from and could be extremely beneficial. You can rent it on Amazon for ~$20 for the semester.
-
-
-***Computer Systems: A Programmer's Perspective* 2nd edition**
-by  Randal E. Bryant, David R. O'Hallaron
-(2010) Addison-Wesley Pub Co: ISBN-10: 0136108040
-
-A 3rd edition of this textbook just released, at the moment I'm not sure what material is contained in the 3rd edition and if it would be worth getting over the 2nd. If you have any interest in taking CSCI540, I'm currently using this text for that course and it makes a great reference. I'll likely be migrating to the 3rd edition in CSCI540 once I get a copy to review/verify the contents.
+None
 
 ## Attendance
 
-Attendance of lectures is not required, but it can help your grade and is highly recommended.
-
-Attendance may improve your grade. For example, if your grade is a high B+ and you have attended most/all the lectures I may raise your grade to a A-.
-
-Missing class can make the projects and exams especially difficult. If I verbally change the requirements of a project during lecture, you are responsible for meeting the new requirements. If you miss a class make sure you get notes from another student.
-
-If you regularly skip class I will not answer questions on the material you missed.
-
-Attendance of labs is not required; however, this will be where we will walk through examples of the material covered in lecture and tools for your assignments. As such, you will likely not do well on the labs and exams that will rely on this material if you miss the labs. I'll also be factoring in attendance into your overall grade, so make sure you sign in every lab, if you don't stay for the lab then this won't count.
+This is not a lecture-based course. There will be weekly meetings in small groups to assess progress and receive feedback. Students are expected to work independently for the most part, with gentle reminders of upcoming milestones and status reports. When full class meetings are called they will be during the officially scheduled course time and classroom. It is every student's responsibility to check the BBL website weekly for schedule or requirements updates.
 
 ## Grading
 
 Grades for this course will be relative. The students that do the best work will get an A, the students that don't do as well get a B, and so on. I will likely not be following at traditional percentage grades of 90% for an A, 80% for a B, etc., and I don't like to grade on a curve as if I applied blindly could result in grades actually being lowered if everyone is doing very well in the course.
 
-I will routinely post the grading spreadsheet (Will be in google drive folder). If you are not happy with a grade, talk to me immediately. If you do not talk to me within a week of the posting of a grade, I will assume you think the grade is fair and accurate, and you will lose your right to dispute the grade.
 
-### Grade Category Percentages:
+### Grade Categorys:
 
-+ Exams 40% of course grade (1 midterm and a final)
+#### Milestones: 
 
-+ Programming Projects 60% of course grade
+* Proposal
+    * Project plan and timeline
+* Check-in weekly meeting or updates
+* Midterm status check/demo
+* Poster session (2.5 hours)
+* Poster
+* Final Presentation (20 mins) - TBA (sometime the last week of classes or finals week)
+* Project portfolio 
+    * Docs and project files on a git repo
 
-+ Lecture Attendance can improve/lower your grade (see above)
+#### Extras
 
-+ Lab Attendance - up to 5%, I'll have an attendance sheet in the lab for those who come to lab regularly and make use of the lab time to ask me questions. I will consider giving up to 5% of credit for this.
+* Major Field Test - Required but score doesn't play into grade of the course
+* Senior Survey/Exit Exam Completion - Required but score doesn't play into grade of the course
+
+#### Letter Grades
+
+Letter grades will be assigned based on the completion of all the milestones and how the final project meets the grading symbol definitions of the university. You will recieve a RP until completion of the exit exam taken the semester you actually graduate. 
+
+[Grading Symbols Definitions](https://www.csuchico.edu/pres/em/2010/10-018.shtml)
+
 
 ### Grading Meetings
 
 We are going to investigate all the projects you turn in to look for code plagiarism via a number of different methods. Any students whose code isn't uniquely yours will need to schedule a grading meeting with the grader to answer detailed questions concerning how your code works. This meeting will make up 60% of your project grade and 40% will come from your ability to solve the project. If you didn't write your project you will likely fail the grading meeting and get a failing grade on the project. Seeking out fellow students for advice on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of how your code works.
 
-## Programming Assignments
 
-There will be at least 6 assignments due at approximately 2 week intervals starting the second week of the semester.
-
-### Late Assignments:
-
-Assignments turned in 1-24 hours after the due date will lose 15%
-Assignments will NOT be accepted more that 24 hours after the due date.
-
-## COVID-19 Exam Proctoring Spring 2020
-
-To maintain academic integrity of online exams, this course will use online proctoring software called Proctorio. For more information about Proctorio, from the College of Business that has used it regularly in the past, please go to: [http://www.csuchico.edu/cob/documents/proctorio.pdf](http://www.csuchico.edu/cob/documents/proctorio.pdf)
-
-### Proctorio
-
-* There will be a pre-test/tutorial spot on the campus Blackboard for this course
-* There will be a practice exam on Blackboard before any real exam will occurs
-  * Will revisit if exams will happen on this platform after the practice exam feedback/success. 
 
 
 ## Getting Help/E-mail
 
 As this is a upper division course you'll likely want to make use of my office hours for help as it is unlikely there are tutors or other such resources.
 
-We will be using Piazza for a class discussion board. You should automatically be enrolled when you enrolled in this course on Moodle. You should post any general questions here first as this will allow more students to benefit from the answer vs me potentially answering the same questions numerous times.
-
-Additionally, you can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put **'CSCI340'** in the subject so it will be filtered correctly. **ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject do not expect a response as I will not open it or respond to it.
+You can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put **'CSCI490'** in the subject so it will be filtered correctly. **ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject do not expect a response as I will not open it or respond to it.
 
 I'll be making it a habit to respond immediately to emails received between 9am-5pm, except when I'll otherwise be in a meeting, lecture, etc. Any emails outside of those times will be answered as I can or potentially the next morning at 9am, so try to make sure to email me prior to 5pm.
 
-I will routinely communicate with the class via announcements on the Piazza board. Make sure your email on Moodle that is integrated into Piazza is one you check regularly so that you don't miss any of these communications.
-
-Make sure you have a Moodle account and that you can access Piazza from the class page, you will not receive the class e-mails and may miss important information about the class if your account wasn't created.
-
-If you drop the class, you should be able to un-enroll from Moodle/Piazza to stop receiving messages. Let me know if you drop the class and still get e-mail.
 
 ## Responsibilities
 
@@ -151,7 +104,7 @@ On the other hand, you are allowed to discuss projects and you may get help each
 
 Required Consultation: If I suspect that you did not do your own work (e.g. someone else wrote your programs), you are required to meet with me and discuss your program. During this meeting I will ask you simple questions about your program. If you don't know how your program works I will assume you have cheated. In the event that you refuse to meet with me I will:
 
-*	assume you cheated
+* assume you cheated
 * give you a zero
 * report you to Student Judicial Affairs.
 
