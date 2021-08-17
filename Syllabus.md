@@ -27,24 +27,25 @@ Grades for this course will be relative. The students that do the best work will
 
 #### Milestones: 
 
-* Proposal
+* 10% Proposal
     * Project plan and timeline
-* Check-in weekly meeting or updates
-* Midterm status check/demo
-* Poster session (2.5 hours)
-* Poster
-* Final Presentation (20 mins) - TBA (sometime the last week of classes or finals week)
-* Project portfolio 
+* 10% Check-in weekly meeting or updates
+* 10% Midterm status check/demo
+* 10% Poster session (2.5 hours in person)
+* 10% Poster
+* 10% Final Presentation (20 mins) - TBA (sometime the last week of classes)
+* 40% Project portfolio & project
     * Docs and project files on a git repo
+    * What you actually got done/built
 
 #### Extras
 
-* Major Field Test - Required but score doesn't play into grade of the course
+* Major Field Test (in person) - Required but score doesn't play into grade of the course
 * Senior Survey/Exit Exam Completion - Required but score doesn't play into grade of the course
 
 #### Letter Grades
 
-Letter grades will be assigned based on the completion of all the milestones and how the final project meets the grading symbol definitions of the university. You will recieve a RP until completion of the exit exam taken the semester you actually graduate. 
+Letter grades will be assigned based on the completion of all the milestones and how the final project meets the grading symbol definitions of the university. You will recieve a RP until completion of the exit exam taken the semester you actually graduate. If you are graduating this semester make sure you do the MFT & exit exam or the RP will count like an F preventing you from graduating.  
 
 [Grading Symbols Definitions](https://www.csuchico.edu/pres/em/2010/10-018.shtml)
 
@@ -54,13 +55,11 @@ Letter grades will be assigned based on the completion of all the milestones and
 We are going to investigate all the projects you turn in to look for code plagiarism via a number of different methods. Any students whose code isn't uniquely yours will need to schedule a grading meeting with the grader to answer detailed questions concerning how your code works. This meeting will make up 60% of your project grade and 40% will come from your ability to solve the project. If you didn't write your project you will likely fail the grading meeting and get a failing grade on the project. Seeking out fellow students for advice on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of how your code works.
 
 
-
-
 ## Getting Help/E-mail
 
 As this is a upper division course you'll likely want to make use of my office hours for help as it is unlikely there are tutors or other such resources.
 
-You can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put **'CSCI490'** in the subject so it will be filtered correctly. **ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject do not expect a response as I will not open it or respond to it.
+You can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put **'CSCI490'** in the subject so it will be filtered correctly. **ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject do not expect a response as I will not open it or respond to it. I would recommend asking questions on Piazza or Discord so to potentially if it's a question multiple students might want answered I'm not repeating myself. 
 
 I'll be making it a habit to respond immediately to emails received between 9am-5pm, except when I'll otherwise be in a meeting, lecture, etc. Any emails outside of those times will be answered as I can or potentially the next morning at 9am, so try to make sure to email me prior to 5pm.
 
@@ -138,3 +137,13 @@ I am firmly committed to diversity and equality in all areas of campus life, inc
 **The Hungry Wildcat Food Pantry** provides supplemental food, fresh produce, CalFresh application assistance and basic needs referral services for students experiencing food and housing insecurity.
 
 All students are welcomed to visit the Pantry located in the **Student Service Center 196**, open **Monday-Friday, 11am-4pm** or call **530-898-4098**. Please visit the Chico State Basic Needs website [http://www.csuchico.edu/basic-needs](http://www.csuchico.edu/basic-needs) for more information
+
+## COVID-19 safety reminder
+
+The CSU requires students to be fully vaccinated against COVID-19 by September 30, 2021, unless you have an approved exemption.  Currently, Chico State is requiring everyone on campus to wear an approved face covering in all indoor campus spaces. Accordingly, all students are required to wear an appropriate face mask covering the nose and mouth in order to participate in this course.   Policies and requirements regarding COVID-19 are subject to change pursuant to campus, local, state and/or federal guidelines.
+
+Please note that dishonesty relating to the vaccination policy and/or your failure to comply with any other COVID-19 related safety policy or mandate, including the face covering requirement, may result in disciplinary action against you through the office of Student Conduct, Rights and Responsibilities, which can include suspension or expulsion from the California State University system. 
+
+Individuals unable to wear a face covering due to a medical condition should contact the Accessibility Resource Center by phone at (530) 898-5959 or by email at arcdept@csuchico.edu. If an ARC accomadation is not recieved I will assume you are failing to comply with the with the campus requirements and report you to the office of Student Conduct, Rights and Responsibilities mentioned above. 
+
+
