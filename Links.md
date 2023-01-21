@@ -1,4 +1,4 @@
-* [Google Drive Shared Folder](https://drive.google.com/drive/folders/1tGflpwzLkHSUrq01G7-g6DwGMIzkQSrH?usp=sharing) - Shared folder of lecture slides, and other materials.
+* [One Drive Shared Folder](https://csuchico-my.sharepoint.com/:f:/g/personal/bcdixon_csuchico_edu/Elc1CpfHE9NKt8Qni4ZlV4UB6JqC7nHTjyz3KturnnraMg?e=jhvgBk) - Shared folder of lecture slides, and other materials. Must be authenticated to the campus OneDrive to access.
 * [GitHub](https://github.com/) - Version Control & Open Source Code Repository
 * [BitBucket](https://bitbucket.org) - Version Control Host for GIT or MERCURIAL (Education Accounts are Free)
 * [Ubuntu](http://ubuntu.com) - Distro of Linux I'll personally be using.
