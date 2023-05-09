@@ -110,7 +110,6 @@ Required Consultation: If I suspect that you did not do your own work (e.g. some
 
 I reserve the right to catch cheaters after the end of the semester. Just because a cheater makes it to the end of the semester without being caught does not mean he or she has gotten away with it. Since I keep assignments it is possible for me to catch cheaters after the fact. For example, assume your friend George gives you his old program and you turn it in. Next semester George might give his program to someone else and I could catch it. Now I will look through all old programs to see who else George has given his program to. One of my advantages is that I can use programs to look for all instances of an assignment over the past several years. And while I might not catch everyone, I am always amazed at the people I do catch.
 
-The code you write in this class is my property and if you share this code after the semester ends, after you graduate, etc I reserve the right to seek legal damages and to seek to retroactively fail you for this class. *DO NOT* share code from class with others. Employers who want to see a coding portfolio want to see code you developed outside of the required code you wrote for courses.
 
 ## Religious Holidays
 
