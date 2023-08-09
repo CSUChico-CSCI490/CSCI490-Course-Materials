@@ -145,4 +145,6 @@ Please note that dishonesty relating to the vaccination policy and/or your failu
 
 Individuals unable to wear a face covering due to a medical condition should contact the Accessibility Resource Center by phone at (530) 898-5959 or by email at arcdept@csuchico.edu. If an ARC accomadation is not recieved I will assume you are failing to comply with the with the campus requirements and report you to the office of Student Conduct, Rights and Responsibilities mentioned above. 
 
+## Important note about a possible work stoppage during the semester
 
+The California Faculty Association (the labor union of Lecturers, Professors, Coaches, Counselors, and Librarians across the 23 CSU campuses) is in a difficult contract dispute with California State University management. It is possible that we will call a strike or other work stoppage this term. I promise to promptly inform you of any schedule disruption. Our working conditions are your learning conditions; we seek to protect both. For further information go to [www.CFAbargaining.org](www.CFAbargaining.org).
