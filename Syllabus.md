@@ -20,10 +20,13 @@ This is not a lecture-based course. There will be weekly meetings in small group
 
 ## Grading
 
-Grades for this course will be relative. The students that do the best work will get an A, the students that don't do as well get a B, and so on. I will likely not be following at traditional percentage grades of 90% for an A, 80% for a B, etc., and I don't like to grade on a curve as if I applied blindly could result in grades actually being lowered if everyone is doing very well in the course.
+Grades for this course will be relative. The students who do the best work will get an A, the students who don't do as well get a B, and so on. I will likely not be following the traditional percentage grades of 90% for an A, 80% for a B, etc., and I don't like to grade on a curve, as applying it blindly could result in grades actually being lowered if everyone is doing very well in the course.
+
+### Final Grading Caveats
 
 
-### Grade Categorys:
+
+### Grade Categories:
 
 #### Milestones: 
 
@@ -40,20 +43,24 @@ Grades for this course will be relative. The students that do the best work will
 
 #### Extras
 
-* Major Field Test (in person) - Required but score doesn't play into grade of the course
-* Senior Survey/Exit Exam Completion - Required but score doesn't play into grade of the course
+* Major Field Test (MFT) (in person) - Required for Computer Science Majors, but score doesn't play into the grade of the course
+* ICCP exam (in person) - Required for Computer Information Systems Majors, usually two days, score doesn't play into the grade of the course
+* Senior Survey/Exit Exam Completion - Required, but score doesn't play into the grade of the course
 
 #### Letter Grades
 
-Letter grades will be assigned based on the completion of all the milestones and how the final project meets the grading symbol definitions of the university. You will recieve a RP until completion of the exit exam taken the semester you actually graduate. If you are graduating this semester make sure you do the MFT & exit exam or the RP will count like an F preventing you from graduating.  
+Letter grades will be assigned based on the completion of all milestones and on how the final project meets the university's [Grading Symbols Definitions](https://www.csuchico.edu/pres/em/2010/10-018.shtml). I'll try to indicate in my feedback on your proposals where your project would fall under these definitions if you choose not to revise and add more deliverables. You will receive an RP until completion of the MFT/ICCP and exit exam taken in the semester you actually graduate. If you are graduating this semester, make sure you do the MFT/ICCP & exit exam, or the RP will count like an F, preventing you from graduating, and you'll have to wait until the next semester to take the exam so you can graduate.  
 
 [Grading Symbols Definitions](https://www.csuchico.edu/pres/em/2010/10-018.shtml)
 
 
 ### Grading Meetings
 
-We are going to investigate all the projects you turn in to look for code plagiarism via a number of different methods. Any students whose code isn't uniquely yours will need to schedule a grading meeting with the grader to answer detailed questions concerning how your code works. This meeting will make up 60% of your project grade and 40% will come from your ability to solve the project. If you didn't write your project you will likely fail the grading meeting and get a failing grade on the project. Seeking out fellow students for advice on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of how your code works.
+We are going to investigate all the projects you turn in to detect code plagiarism using several methods. Any students whose code isn't uniquely theirs will need to schedule a grading meeting with the grader to answer detailed questions about how their code works. This meeting will make up 60% of your project grade and 40% will come from your ability to solve the project. If you didn't write your project you will likely fail the grading meeting and get a failing grade on the project. Seeking advice from fellow students on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of how your code works.
 
+#### Use of LLMs
+
+This is a capstone, so some use of LLMs is allowed; however, only for small components of your overall project, and you need to properly cite all bits of code used from an LLM. You can not use an LLM to implement your entire project or you will get a 0.
 
 ## Getting Help/E-mail
 
