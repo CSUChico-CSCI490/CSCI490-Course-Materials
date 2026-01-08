@@ -6,7 +6,7 @@ Bryan Dixon
 
 ## Prerequisite
 
-CSCI 311 with a grade of C or higher, Senior standing.
+CSCI 430; CSCI 565, CSCI 567, or MATH 485; senior standing.
 
 Students who take this class without completing the prerequisite class will be given a failing grade.
 
