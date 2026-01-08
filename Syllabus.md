@@ -49,7 +49,7 @@ Grades for this course will be relative. The students who do the best work will 
 
 #### Letter Grades
 
-Letter grades will be assigned based on the completion of all milestones and on how the final project meets the university's [Grading Symbols Definitions](https://www.csuchico.edu/pres/em/2009/09-010.shtml). I'll try to indicate in my feedback on your proposals where your project would fall under these definitions if you choose not to revise and add more deliverables. You will receive an RP until completion of the MFT/ICCP and exit exam taken in the semester you actually graduate. If you are graduating this semester, make sure you do the MFT/ICCP & exit exam, or the RP will count like an F, preventing you from graduating, and you'll have to wait until the next semester to take the exam so you can graduate.  
+Letter grades will be assigned based on the completion of all milestones and on how the final project meets the university's [Grading Symbols Definitions](https://www.csuchico.edu/pres/em/2010/10-018.shtml). I'll try to indicate in my feedback on your proposals where your project would fall under these definitions if you choose not to revise and add more deliverables. You will receive an RP until completion of the MFT/ICCP and exit exam taken in the semester you actually graduate. If you are graduating this semester, make sure you do the MFT/ICCP & exit exam, or the RP will count like an F, preventing you from graduating, and you'll have to wait until the next semester to take the exam so you can graduate.  
 
 
 ### Grading Meetings
